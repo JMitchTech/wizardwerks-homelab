@@ -1,4 +1,4 @@
-# 🧙 Wizardwerks Enterprise Solutions — Home Lab
+# Wizardwerks Enterprise Solutions — Home Lab
 
 ![Wizardwerks Banner](ww_logo_banner.png)
 
@@ -22,6 +22,12 @@ This lab is also a platform. It grows as I grow — and the roadmap is ambitious
 
 ---
 
+## Network Topology
+
+![Wizardwerks Network Diagram](wizardwerks_network_diagram.png)
+
+---
+
 ## Current Infrastructure
 
 | Component | Technology | Status |
@@ -29,7 +35,7 @@ This lab is also a platform. It grows as I grow — and the roadmap is ambitious
 | Hypervisor | Oracle VM VirtualBox | ✅ Complete |
 | Domain Controller | Windows Server 2022 — AD, DNS, DHCP, GPO | ✅ Complete |
 | File Server | Windows Server 2022 — NTFS, Shared Drives | ✅ Complete |
-| Endpoint Simulation | Windows Workstation VM | ✅ Complete |
+| Endpoint Simulation | Windows 10 Workstation VM | ✅ Complete |
 | Network Firewall | pfSense CE — Firewall, Routing, VLANs | 🔄 In Progress |
 | Backup & DR | Veeam Backup & Replication Community Edition | 🔄 In Progress |
 | Patch Management | WSUS — Windows Server Update Services | 📋 Planned |
@@ -76,7 +82,6 @@ This environment is actively expanding. Planned additions include:
 - ☁️ **Azure Entra ID Connect** — hybrid identity sync between on-prem AD and Azure AD
 - ☁️ **Oracle Cloud Free Tier** — extend the lab into the cloud
 - 🔐 **Duo MFA** — multi-factor authentication integration
-- 📊 **Network Diagram** — full topology documentation via Draw.io
 - 🔄 **WSUS** — centralized patch management with staged rollout groups
 - 💾 **Veeam DR Testing** — verified backup and restore capability
 - 🌐 **pfSense VLAN Segmentation** — full network segmentation with firewall rules
