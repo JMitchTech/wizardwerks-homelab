@@ -1,4 +1,4 @@
-# 🧙 Wizardwerks Enterprise Solutions — Home Lab
+# Wizardwerks Enterprise Solutions — Home Lab
 
 ![Wizardwerks Banner](ww_logo_banner.png)
 
