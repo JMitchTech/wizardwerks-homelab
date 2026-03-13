@@ -1,4 +1,4 @@
-# Wizardwerks Enterprise Solutions — Home Lab
+# 🧙 Wizardwerks Enterprise Solutions — Home Lab
 
 ![Wizardwerks Banner](ww_logo_banner.png)
 
@@ -94,7 +94,7 @@ The goal is a fully documented, cloud-integrated, security-hardened enterprise e
 
 Full technical documentation is included in this repository — covering every VM, every service, every configuration decision, and every command. Written to the standard of a real enterprise IT runbook.
 
-📄 [`Wizardwerks_Tech_doc.pdf`](Wizardwerks_Tech_doc.pdf)
+📄 [`Wizardwerks_Tech_Doc.pdf`](Wizardwerks_Tech_Doc.pdf)
 
 ---
 
