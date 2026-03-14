@@ -28,7 +28,7 @@ This is not a tutorial project. This is a working environment — designed, depl
 | Endpoint Simulation | Windows 10 Workstation VM | ✅ Complete |
 | Network Firewall | pfSense CE — Firewall, Routing, VLANs | 🔄 In Progress |
 | Backup & DR | Windows Server Backup — Scheduled jobs, verified restore | ✅ Complete |
-| Patch Management | WSUS — Windows Server Update Services | 📋 Planned |
+| Patch Management | WSUS — Windows Server Update Services | ✅ Complete |
 | Help Desk | Spiceworks Cloud — Full ticket lifecycle | ✅ Complete |
 | Automation | PowerShell — User provisioning scripts | ✅ Complete |
 
@@ -72,7 +72,6 @@ This environment is actively expanding. Planned additions include:
 - ☁️ **Azure Entra ID Connect** — hybrid identity sync between on-prem AD and Azure AD
 - ☁️ **Oracle Cloud Free Tier** — extend the lab into the cloud
 - 🔐 **Duo MFA** — multi-factor authentication integration
-- 🔄 **WSUS** — centralized patch management with staged rollout groups
 - 🌐 **pfSense VLAN Segmentation** — full network segmentation with firewall rules
 
 The goal is a fully documented, cloud-integrated, security-hardened enterprise environment — built and operated by one administrator.
