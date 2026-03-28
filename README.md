@@ -107,9 +107,11 @@ Intune auto-enrollment is blocked on WORKSTATION01 by a VirtualBox virtual TPM l
 
 ## Documentation
 
-Full technical documentation is included in this repository — covering every VM, every service, every configuration decision, and every command. Written to the standard of a real enterprise IT runbook.
+Full technical documentation is included in this repository — covering every VM, every service, every configuration decision, and every command. Written to real world enterprise standards.
 
 📄 [`Wizardwerks_TechDoc_v3.pdf`](Wizardwerks_TechDoc_v3.pdf)
+
+Also for a complete rundown plus visual context, you may view the [`Wizardwerks_VisualRunbook.pdf`](Wizardwerks_VisualRunbook.pdf)
 
 ---
 
