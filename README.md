@@ -24,7 +24,7 @@ This is not a tutorial project. This is a working environment — designed, depl
 | Domain Controller | Windows Server 2022 — AD, DNS, DHCP, GPO, WSUS | ✅ Complete |
 | File Server | Windows Server 2022 — NTFS, Shared Drives, Backup | ✅ Complete |
 | Endpoint Simulation | Windows 10 Workstation VM — Domain + Hybrid Entra ID Joined | ✅ Complete |
-| Network Firewall | pfSense CE — Firewall, Routing | 🔄 In Progress |
+| Network Firewall | pfSense CE — Firewall, Routing | ✅ Complete |
 | Backup & DR | Windows Server Backup — Scheduled jobs, verified restore | ✅ Complete |
 | Patch Management | WSUS — Windows Server Update Services, GPO deployed | ✅ Complete |
 | Help Desk | Spiceworks Cloud — Full ticket lifecycle | ✅ Complete |
