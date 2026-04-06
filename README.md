@@ -1,5 +1,3 @@
-# 🧙 Wizardwerks Enterprise Labs — Home Lab
-
 ![Wizardwerks Banner](wizard_corp_banner.png)
 
 ---
